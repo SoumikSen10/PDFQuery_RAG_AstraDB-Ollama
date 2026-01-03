@@ -117,6 +117,4 @@ while True:
 
 MIT License
 
-```
-
 
